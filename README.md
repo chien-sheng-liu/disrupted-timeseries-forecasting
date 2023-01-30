@@ -1,4 +1,4 @@
-# timeseries_forecasting
+# Disrupted Time Seires Forecasting
 This area consists my source codes and raw data of my master thesis. 
 
 The thesis topic is handling Covid-related disruptiions in Time-Series Forecasting
